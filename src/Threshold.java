@@ -1,6 +1,5 @@
 public class Threshold {
 
-    private float sum;
     private int[] occurrence;
     private int max;
 
